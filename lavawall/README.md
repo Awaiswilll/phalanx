@@ -11,7 +11,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-PHALANX LAVAWALL is a high‑performance, agent‑based defensive framework that simulates a swarm of 100 intelligent agents working together to monitor network traffic, detect intrusions, block malicious IPs (via `iptables`), and track VPN status. It provides a rich **curses TUI** for real‑time monitoring and a **headless console mode** for servers or containers.
+PHALANX LAVAWALL is an agent‑based defensive framework that simulates a swarm of 100 intelligent agents working together to monitor network traffic, detect intrusions, block malicious IPs (via `iptables`), and track VPN status. It provides a rich **curses TUI** for real‑time monitoring and a **headless console mode** for servers or containers.
 
 ---
 
